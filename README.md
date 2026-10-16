@@ -3,11 +3,7 @@
 ![Autor](https://img.shields.io/badge/Author-Daniel-402BFC?style=for-the-badge)
 ![Backend](https://img.shields.io/badge/Backend-E81010?style=for-the-badge)
 ![Frontend](https://img.shields.io/badge/Frontend-1874F2?style=for-the-badge)
-
----
-<center><strong>Estudiante de Tecnología en Desarrollo de Software @ Universidad del Valle (Seccional Pacífico)</strong></center>
-
----
+![LLM](https://img.shields.io/badge/LLM-7A40F7?style=for-the-badge)
 
 ## Acerca de mí 🐢
 
